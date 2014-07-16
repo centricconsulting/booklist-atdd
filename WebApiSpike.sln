@@ -24,43 +24,6 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lib", "Lib", "{4DE31559-4784-4172-BFD4-00EE6EFE492B}"
 EndProject
 Global
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 9
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = http://tfsprd:8080/tfs/defaultcollection
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = WebApiSpike.Biz\\WebApiSpike.Biz.csproj
-		SccProjectTopLevelParentUniqueName1 = WebApiSpike.sln
-		SccProjectName1 = WebApiSpike.Biz
-		SccLocalPath1 = WebApiSpike.Biz
-		SccProjectUniqueName2 = WebApiSpike.Con\\WebApiSpike.Con.csproj
-		SccProjectTopLevelParentUniqueName2 = WebApiSpike.sln
-		SccProjectName2 = WebApiSpike.Con
-		SccLocalPath2 = WebApiSpike.Con
-		SccProjectUniqueName3 = WebApiSpike.Data\\WebApiSpike.Data.csproj
-		SccProjectTopLevelParentUniqueName3 = WebApiSpike.sln
-		SccProjectName3 = WebApiSpike.Data
-		SccLocalPath3 = WebApiSpike.Data
-		SccProjectUniqueName4 = WebApiSpike.Services\\WebApiSpike.Services.csproj
-		SccProjectTopLevelParentUniqueName4 = WebApiSpike.sln
-		SccProjectName4 = WebApiSpike.Services
-		SccLocalPath4 = WebApiSpike.Services
-		SccProjectUniqueName5 = WebApiSpike.Tests.Integration\\WebApiSpike.Tests.Integration.csproj
-		SccProjectTopLevelParentUniqueName5 = WebApiSpike.sln
-		SccProjectName5 = WebApiSpike.Tests.Integration
-		SccLocalPath5 = WebApiSpike.Tests.Integration
-		SccProjectUniqueName6 = WebApiSpike.Tests.Unit\\WebApiSpike.Tests.Unit.csproj
-		SccProjectTopLevelParentUniqueName6 = WebApiSpike.sln
-		SccProjectName6 = WebApiSpike.Tests.Unit
-		SccLocalPath6 = WebApiSpike.Tests.Unit
-		SccProjectUniqueName7 = WebApiSpike.WebUi\\WebApiSpike.WebUi.csproj
-		SccProjectName7 = WebApiSpike.WebUi
-		SccLocalPath7 = WebApiSpike.WebUi
-		SccProjectUniqueName8 = WebSpikeApi.Core\\WebSpikeApi.Core.csproj
-		SccProjectTopLevelParentUniqueName8 = WebApiSpike.sln
-		SccProjectName8 = WebSpikeApi.Core
-		SccLocalPath8 = WebSpikeApi.Core
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Debug|Mixed Platforms = Debug|Mixed Platforms
